@@ -1,0 +1,10 @@
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\bin\x86\Debug\CLRStudy.dll
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\bin\x86\Debug\CLRStudy.pdb
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\bin\x86\Debug\CLRHost.Interop.dll
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\CLRStudy.csprojResolveAssemblyReference.cache
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\CLRStudy.dll
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\CLRStudy.pdb
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\NicoliveSettingPanelControll.baml
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\NicoliveSettingPanelControll.g.cs
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\CLRStudy_MarkupCompile.cache
+C:\Users\soichiro\Dropbox\Dev\CLRStudy\CLRStudy\obj\x86\Debug\CLRStudy.g.resources

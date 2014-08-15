@@ -1,0 +1,1 @@
+Study project of [Open Broadcast Software](https://github.com/jp9000/OBS) Plugin by [CLRHostPlugin](https://github.com/sifue/CLRHostPlugin)
